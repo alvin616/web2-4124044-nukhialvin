@@ -8,8 +8,9 @@
 <body>
     <h1>Welcome</h1>
     <ul>
-        <li><a href="/perkenalan">Perkenalan</a></li>
+        <li><a href="/nukhi">Nukhi</a></li>
+        <li><a href="/husain">Husain</a></li>
     </ul>
-    <p>Selamat datang di website saya</p>
+    <p>Selamat datang di website saya</p    >
 </body>
 </html>
