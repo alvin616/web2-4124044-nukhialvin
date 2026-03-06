@@ -28,3 +28,13 @@ Berikut adalah tampilan halaman **Perkenalan** dari website yang telah dibuat:
 
 ## 📖 Deskripsi Singkat
 Website ini dibuat menggunakan **Laravel** dan berisi halaman perkenalan yang menampilkan informasi dasar tentang diri saya sebagai mahasiswa Sistem Informasi.
+
+---
+
+## 📂 Struktur Halaman
+
+ Website ini memiliki beberapa halaman utama, yaitu:
+
+- Halaman Welcome sebagai halaman utama website.
+
+- Halaman Perkenalan yang berisi informasi singkat tentang diri saya.
